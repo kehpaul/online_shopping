@@ -1,0 +1,13 @@
+[31-Oct-2021 09:21:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 10:11:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 15:10:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 15:13:51 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 15:14:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 15:15:30 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 15:23:24 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 15:25:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 15:27:43 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'thismaze_main'@'localhost' to database 'onlineshopping' in /home1/thismaze/public_html/onshop/db.php on line 9
+[31-Oct-2021 16:48:25 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/thismaze/public_html/onshop/login.php:53) in /home1/thismaze/public_html/onshop/login.php on line 61
+[04-Feb-2022 15:32:26 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/header.php on line 2
+[04-Feb-2022 15:34:21 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/header.php on line 2
+[04-Feb-2022 16:04:05 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/header.php on line 2
