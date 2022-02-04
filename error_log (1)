@@ -1,0 +1,22 @@
+[31-Oct-2021 16:27:58 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/index.php on line 3
+[31-Oct-2021 16:28:50 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/adduser.php on line 2
+[31-Oct-2021 16:29:11 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/adduser.php on line 2
+[31-Oct-2021 16:29:11 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/thismaze/public_html/onshop/admin/adduser.php:1) in /home1/thismaze/public_html/onshop/admin/adduser.php on line 18
+[31-Oct-2021 16:29:27 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/index.php on line 3
+[31-Oct-2021 16:29:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:30:04 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/addproduct.php on line 2
+[31-Oct-2021 16:32:39 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/addproduct.php on line 2
+[31-Oct-2021 16:32:39 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/thismaze/public_html/onshop/admin/addproduct.php:1) in /home1/thismaze/public_html/onshop/admin/addproduct.php on line 31
+[31-Oct-2021 16:33:06 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:33:23 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:33:38 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:33:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:34:00 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:34:12 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:34:23 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:34:29 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/productlist.php on line 2
+[31-Oct-2021 16:34:49 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/manageuser.php on line 3
+[31-Oct-2021 16:35:12 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/manageuser.php on line 3
+[31-Oct-2021 16:35:19 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/edituser.php on line 3
+[31-Oct-2021 16:44:48 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/adduser.php on line 2
+[31-Oct-2021 16:45:13 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/thismaze/public_html/onshop/admin/manageuser.php on line 3
