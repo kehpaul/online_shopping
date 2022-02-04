@@ -9,7 +9,7 @@ $errors = array();
 
 // connect to the database
 define('DB_SERVER', 'localhost');
-   define('DB_USERNAME', 'thismaze_main');
+   define('DB_USERNAME', 'hjjjjhvhhn');
    define('DB_PASSWORD', 'king1234');
    define('DB_DATABASE', 'thismaze_onlineshopping');
    $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
